@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">## i break code and then i fix it<br><br>• fullstack dev<br>• i have been programming for 7 years</p>
+<p align="left">i break code and then i fix it<br><br>• fullstack dev<br>• i have been programming for 7 years</p>
 
 ###
 
