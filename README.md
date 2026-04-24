@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Euro and I'm a programmer, from Israel.</p>
+<p align="left">My name is October and I'm a programmer, from Israel.</p>
 
 ###
 
