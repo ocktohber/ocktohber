@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hie 😊</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">i break code and then i fix it<br><br>• fullstack dev<br>• i have been programming for 7 years</p>
+<p align="left">i break code and then i fix it<br><br>• fullstack dev<br>• i have been programming for 8 years</p>
 
 ###
 
