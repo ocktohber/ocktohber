@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔨 i break code and then i fix it<br>💻 fullstack dev<br>👶 i have been programming for 8 years
 
 
